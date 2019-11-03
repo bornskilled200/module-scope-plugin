@@ -2,7 +2,9 @@
 
 ## Folders
 app can only import from liba
+
 lib can only import from other libs
+
 external cannot import anything else
 ```
 app
