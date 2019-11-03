@@ -4,6 +4,7 @@
   "description": "A resolve plugin for webpack to restrict sources from another source folder",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David Park",
