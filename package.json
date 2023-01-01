@@ -16,6 +16,6 @@
     "rollup-plugin-typescript": "^1.0.1",
     "tslib": "^1.10.0",
     "typescript": "^3.6.4",
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   }
 }
